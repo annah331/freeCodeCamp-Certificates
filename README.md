@@ -8,6 +8,6 @@ Here are my FreeCodeCamp certifications:
 ### JavaScript Algorithms and Data Structures
 [Download PDF](images/javascript-algorithms.pdf)
 
-### Front End Libraries
-![Front End Libraries](images/front-end-libraries.png)
+### Python
+![Science computing with Python](images/Science-computing-with-Python.png)
 
