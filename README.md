@@ -6,4 +6,12 @@
 
 ### Python
 
+### Front-end Development Libraries
+
+### Back-end Development and APIs 
+
+### Relational Database
+
+### Data Visualization
+
 
